@@ -11,6 +11,7 @@ links:
 output:
   postcards::solana
 ---
+ <body style="background-color:azure;">
  
 ## Bio
 
