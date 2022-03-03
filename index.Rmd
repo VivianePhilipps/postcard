@@ -1,0 +1,33 @@
+---
+title: "Viviane Philipps"
+image: "vp.jpg"
+links:
+  - label: Resume
+    url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
+  - label: Arxiv
+    url: "https://arxiv.org/"
+  - label: github
+    url: "https://github.com/VivianePhilipps"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I am a research assistant in the biostatistics team of the Bordeaux Population Health Center. I take part in the development of new statistical methods for analyzing longitudinal data. 
+
+## Education
+
+**Master in statistics** | Strasbourg University, France
+
+September 2010 - August 2012
+
+**Licence in mathematics** | Strasbourg University, France
+
+September 2007 - August 2010
+
+## Experience
+
+**Statistician** | Bordeaux Population Health center
+
+September 2012 - Present
