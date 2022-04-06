@@ -2,7 +2,7 @@
 title: "Viviane Philipps"
 image: "vp.jpg"
 links:
-  - label: frencg website
+  - label: french website
     url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
   - label: arXiv publications
     url: "https://arxiv.org/a/philipps_v_1"
