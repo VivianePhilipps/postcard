@@ -2,8 +2,8 @@
 title: "Viviane Philipps"
 image: "vp.jpg"
 links:
-  - label: french website
-    url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
+#  - label: french website
+#    url: "https://www.bordeaux-population-health.center/profile/viviane-philipps/"
   - label: arXiv publications
     url: "https://arxiv.org/a/philipps_v_1"
   - label: github programs
@@ -19,14 +19,16 @@ I am a research assistant in the biostatistics team of the Bordeaux Population H
 
 ## Education
 
-**2012 : Master's degree in statistics** | Strasbourg University, France
+**2010 - 2012 : Master's degree in statistics**, Strasbourg University, France
 
-**2010 : Bachelor's degree in mathematics** | Strasbourg University, France
+**2007 - 2010 : Bachelor's degree in mathematics**, Strasbourg University, France
 
 ## Experiences
 
-**Since 2012 : Statistician** | Bordeaux Population Health center
+**Since 2017 : Statistician**, Permanent position (ingénieure d'étude contractuelle en CDI), Bordeaux Population Health center
 
-**2012 : 5 months internship in biostatistics ** | Bordeaux Population Health center
+**2012 - 2017 : Statistician**, Non-permanent position (ingénieure d'étude contractuelle en CDD), Bordeaux Population Health center
 
-**2011 : 2 months internship in biostatistics ** | IGBMC, Illkirch-Graffenstaden
+**2012 : 5 months internship in biostatistics**, Bordeaux Population Health center
+
+**2011 : 2 months internship in biostatistics**, IGBMC, Illkirch-Graffenstaden
